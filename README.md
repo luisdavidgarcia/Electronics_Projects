@@ -53,7 +53,7 @@ Although, unsatisfied at only seeing the battery, cameras, and speakers I know n
 to take account of the names of components and research them me thoroughly.
 
 
-## 10/19/2021 - Doorbell Circuit
+## 10/19/2021 - Doorbell Circuit 🔔
 
 ![DBTgallery](https://user-images.githubusercontent.com/87344382/185779651-bc076c63-c5bf-463e-80a8-4dfbe9c8d37b.png)
 
@@ -80,7 +80,7 @@ In my failed attempts, cold solder joints and excessive solder were my demise, s
 
 Creating this doorbell circuit inspires me to take future soldering projects, which I recently discovered there are an abundance of soldering kits online to take on.
 
-## 10/03/2021 - SMD Soldering Practice Board
+## 10/03/2021 - SMD Soldering Practice Board 🎆
 
 ![SMTPractice](https://user-images.githubusercontent.com/87344382/185779624-f1214c65-3222-4a61-b6d7-912b95c372e4.png)
 
@@ -105,7 +105,7 @@ If you'd like to see a demonstration check out my Youtube video by clicking on t
 [![SMD Light Show](https://img.youtube.com/vi/F8OCW8js3JA/0.jpg)](https://www.youtube.com/watch?v=F8OCW8js3JA)
 
 
-## 10/03/2021 - DIY Radio Soldering Kit
+## 10/03/2021 - DIY Radio Soldering Kit 📻
 
 ![DIYRadio](https://user-images.githubusercontent.com/87344382/185779541-29d64261-c2de-4315-aaa5-ff34d63aac83.png)
 
@@ -126,7 +126,7 @@ To see a test of the radio click on the image to see my YouTube video:
 [![My Own Radio](https://img.youtube.com/vi/1k571OwCdPE/0.jpg)](https://www.youtube.com/watch?v=1k571OwCdPE)
 
 
-## 09/11/2021 - OshPark PCB Continuity-Tester 
+## 09/11/2021 - OshPark PCB Continuity-Tester ⚡
 
 ![myPCB](https://user-images.githubusercontent.com/87344382/185779495-15af6553-c1b7-4aca-adc6-f5efc9e69d8b.png)
 
@@ -141,7 +141,7 @@ To see a test of the radio click on the image to see my YouTube video:
 As a final project for my Circuits 1 course, I tested and designed my own continuity tester using LTspice and Eagle then having it manufactured by OshPark. It took three hours to get comfortable with LTspice and Eagle, but then after than it was simple to create my model for the continuity tester printed circuit board (PCB). Once I received the PCB boards I started soldering the components, but one mishap was not ordering a soldering socket for the IC1 on the circuit board since I could then remove the IC from the board with the need for desoldering. After soldering all the components, I verified my continuity tester worked by inserting the red and black soldered in wires on the PCB to my Arduino’s 5V and GND ports, which caused the continuity tester’s red LED lit up as was intended. Although, my PCB functioned I learned I needed to improve my soldering skills since I was quite messy with this board and I did not properly clean the board after I was done to make it presentable, so I hope to improve my soldering skills this summer.
 
 
-## 09/11/2021 - Ohmmeter with a Potentiometer
+## 09/11/2021 - Ohmmeter with a Potentiometer 📏⚡
 
 ![OhmPotent1](https://user-images.githubusercontent.com/87344382/185779451-4eeffa37-2010-44ad-b34e-0cc687809a50.png)
 
@@ -162,7 +162,7 @@ As a final project for my Circuits 1 course, I tested and designed my own contin
 Similar to before I made another ohmmeter to measure the resistance of a resistor, but this time with a potentiometer, which served as tuner for the voltage. I tuned the voltage to provide me with the most accurate reading of the resistor’s resistance in Ohms since I since still relied on finding the resistance with Ohm’s law R = V / I. However, the Arduino code was modified to account for the potentiometer. Additionally, to verify the resistance was accurate I both identified the resistance of the resistor by observing its color bands and also using a digital multi-meter to ensure my ohmmeter on the breadboard is accurate. Hence, building this ohmmeter largely assisted me in getting comfortable with Arduino programming.
 
 
-## 09/11/2021 - Ohmmeter with a Button
+## 09/11/2021 - Ohmmeter with a Button 📏⚡
 
 ![OhmButtonGal](https://user-images.githubusercontent.com/87344382/185779415-656a6c1b-4724-480b-97d4-58594b4ba95c.png)
 
@@ -183,7 +183,7 @@ Similar to before I made another ohmmeter to measure the resistance of a resisto
 I created an ohmmeter that measures the resistance of a resistor by pressing a button since the button initiates the program to start reading the resistor by supplying current to flow through the resistor I will measure. Using a voltage divider equation I can just attain the voltage of resistor, that is then used to calculate the resistance by using Ohm’s law R = V/I, in which R is the resistance, V is the voltage of the resistor, and I is the current flowing through the resistor. I wrote the code for this program completely in Arduino and utilized only the analog pins to then convert them to digital values as part of the solution for the resistance.
 
 
-## 09/11/2021 - Breadboard Continuity-Tester
+## 09/11/2021 - Breadboard Continuity-Tester ⚡
 
 ![CTgallery](https://user-images.githubusercontent.com/87344382/185779350-185145b6-5769-498a-9d1b-93b3b8d7083a.png)
 
